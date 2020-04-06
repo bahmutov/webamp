@@ -1,0 +1,8 @@
+{
+  "fixturesFolder": false,
+  "supportFile": "node_modules/cypress-react-unit-test/support",
+  "experimentalComponentTesting": true,
+  "componentFolder": "cypress/component",
+  "viewportHeight": 400,
+  "viewportWidth": 300
+}

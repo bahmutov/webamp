@@ -94,6 +94,7 @@
     "copy-webpack-plugin": "^4.6.0",
     "css-loader": "^1.0.1",
     "cssnano": "^4.1.10",
+    "cypress-react-unit-test": "3.0.0-cypress-mount-mode.11",
     "data-uri-to-buffer": "^2.0.0",
     "eslint": "^6.5.1",
     "eslint-plugin-import": "^2.18.2",
